@@ -9,7 +9,7 @@ Curso do IFRS de Programação Básica com Java I
 
 ![12-processamento](https://github.com/isabelaacr/Java-intro/assets/118640598/024f26b2-ff1b-40f7-969e-3619faa89e57)
 
-##### Exemplo de execução de programa
+#### Exemplo de execução de programa
 
 ![12-processamentojogo](https://github.com/isabelaacr/Java-intro/assets/118640598/f4751139-1ad4-486c-ac7d-cb1c8959b1a1)
 
