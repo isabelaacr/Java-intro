@@ -8,3 +8,20 @@ multiplicado pelo valor da hora trabalhada;
 c. o imposto equivale a 3% do salário bruto;
 d. o salário a receber equivale ao salário bruto menos o imposto
 *******************************************************************************/
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    double horas_trabalhadas, valor_hora, sal_bruto, imposto, sal_min, a_receber;
+	    
+	  horas_trabalhadas = Double.parseDouble(System.console().readLine());
+	  sal_min = Double.parseDouble(System.console().readLine());
+	  
+	  valor_hora = 0.1*sal_min;
+	  sal_bruto = valor_hora * horas_trabalhadas;
+	  imposto = 0.3*sal_bruto;
+	  a_receber = sal_bruto - imposto;
+	  
+     	System.out.println (a_receber);
+	}
+}
