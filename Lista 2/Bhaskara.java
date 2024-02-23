@@ -1,5 +1,5 @@
 /******************************************************************************
-Construa um programa que leia três valores numéricos (representados
+3. Construa um programa que leia três valores numéricos (representados
 pelas variáveis A, B e C) e faça o cálculo do delta de uma equação de
 segundo grau, segundo a fórmula de Báskara. O programa deve mostrar
 quantas raízes reais a equação possui (delta < 0 – mostrar uma
